@@ -16,8 +16,3 @@ elif paraskaitlis != 0 and a < 0:
 else:
     print("Tev šis nebija jāredz OwO")
 
-
-
-
-
-
